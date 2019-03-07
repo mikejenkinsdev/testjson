@@ -1,17 +1,21 @@
-{
-  "token": "e8f7671e-d1db-4eba-a92b-a31c32cf9484",
-  "active": true,
-  "uses_parent_account": false,
-  "corporate_card_holder": false,
-  "created_time": "2019-03-07T22:44:07Z",
-  "last_modified_time": "2019-03-07T22:44:07Z",
-  "metadata": {},
-  "account_holder_group_token": "DEFAULT_AHG",
-  "status": "ACTIVE",
-  "deposit_account": {
-    "token": "d3175224-ac68-45a6-b8bc-c453e9d28991",
-    "account_number": "00002128531879689",
-    "routing_number": "293748000",
-    "allow_immediate_credit": false
-  }
+{ "cards":
+    [{
+        "id": 1,
+        "token": "e8f7671e-d1db-4eba-a92b-a31c32cf9484",
+        "active": true,
+        "uses_parent_account": false,
+        "corporate_card_holder": false,
+        "created_time": "2019-03-07T22:44:07Z",
+        "last_modified_time": "2019-03-07T22:44:07Z",
+        "metadata": {},
+        "account_holder_group_token": "DEFAULT_AHG",
+        "status": "ACTIVE",
+        "deposit_account": {
+            "token": "d3175224-ac68-45a6-b8bc-c453e9d28991",
+            "account_number": "00002128531879689",
+            "routing_number": "293748000",
+            "allow_immediate_credit": false
+        }
+    }]
+
 }
